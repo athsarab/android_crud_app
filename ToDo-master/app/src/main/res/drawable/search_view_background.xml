@@ -1,0 +1,12 @@
+<!-- search_view_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Background color -->
+    <solid android:color="@color/dark_gray" />
+    <!-- Border -->
+    <stroke
+        android:width="1dp"
+    android:color="@android:color/black" />
+    <!-- Rounded corners -->
+    <corners android:radius="8dp" />
+</shape>

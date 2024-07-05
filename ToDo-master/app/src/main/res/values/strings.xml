@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="enter_title">Enter What ToDo</string>
+    <string name="start_typing_your_note_here">Start typing your ToDo here</string>
+    <string name="delete">delete</string>
+    <string name="search_notes">Search ToDo</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WhiteHintSearchView" parent="Widget.AppCompat.SearchView">
+        <!-- Hint color -->
+        <item name="android:textColorHint">@color/white</item>
+        <!-- Text color -->
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    
+</resources>
